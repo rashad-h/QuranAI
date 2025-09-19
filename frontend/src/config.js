@@ -5,7 +5,7 @@ export const API_CONFIG = {
   // BASE_URL: 'http://localhost:8000',
   
   // For production (replace with your actual Lambda API Gateway URL)
-  BASE_URL: 'https://93ugi0pu79.execute-api.eu-north-1.amazonaws.com/default/quranai-backend',
+  BASE_URL: 'https://tfaownvmmkgoxbs4hrg2cehvci0tzrrp.lambda-url.eu-north-1.on.aws',
   
   ENDPOINTS: {
     QURAN_QUESTION: '/quran_question',
